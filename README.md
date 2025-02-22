@@ -1,5 +1,5 @@
 # Active Directory : Découvrir
-On installe et configure Active Directory server en reprenant la machine virtuelle qu'on as utilisé pour faire les quêtes sur le DNS et DHCP .
+On installe et configure Active Directory server en reprenant la machine virtuelle qu'on a utilisé pour faire les quêtes sur le DNS et DHCP .
 
 Il s’agit du premier serveur d’un nouveau réseau. On Choisi « Ajouter une nouvelle forêt » pour configurer un domaine neuf. Puis on indique un Nom de domaine wilders.lan.
 ![Creation_foret_AD](https://github.com/user-attachments/assets/eb11a336-1378-413a-8a05-fc33188d3a68)
